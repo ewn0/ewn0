@@ -36,8 +36,8 @@ Scanner Python qui détecte les configurations faibles et misconfigurations dans
 ### Security Focus
 ![Windows](https://img.shields.io/badge/Windows%20Security-%230078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Active%20Directory](https://img.shields.io/badge/Active%20Directory-%23004687?style=for-the-badge&logo=microsoft&logoColor=white)
-![LDAP](https://img.shields.io/badge/LDAP-%23FFA500?style=for-the-badge)
-![CVE%20Management](https://img.shields.io/badge/CVE%20Management-%23DD0000?style=for-the-badge)
+![LDAP](https://img.shields.io/badge/LDAP-%23FFA500?style=for-the-badge&logo=openldap&logoColor=white)
+![CVE Management](https://img.shields.io/badge/CVE_Management-%23DD0000?style=for-the-badge&logo=snyk&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
