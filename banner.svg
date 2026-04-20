@@ -1,0 +1,80 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=JetBrains+Mono:wght@400;600&display=swap');
+      
+      .bg { fill: #0a0e27; }
+      .grid-line { stroke: #1a2847; stroke-width: 1; opacity: 0.3; }
+      .accent-line { stroke: #00ff88; stroke-width: 2; opacity: 0; }
+      .title { font-family: 'Space Mono', monospace; font-size: 56px; font-weight: 700; fill: #ffffff; letter-spacing: 2px; }
+      .subtitle { font-family: 'JetBrains Mono', monospace; font-size: 18px; fill: #00ff88; letter-spacing: 1px; }
+      .tag { font-family: 'JetBrains Mono', monospace; font-size: 14px; fill: #88ccff; }
+      
+      @keyframes glow {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 1; }
+      }
+      @keyframes slide-in {
+        from { opacity: 0; transform: translateX(-20px); }
+        to { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes blink {
+        0%, 49%, 100% { opacity: 1; }
+        50%, 99% { opacity: 0; }
+      }
+      
+      .accent-line { animation: glow 3s ease-in-out infinite; }
+      .title { animation: slide-in 0.8s ease-out; }
+      .subtitle { animation: slide-in 0.8s ease-out 0.1s backwards; }
+      .cursor { animation: blink 1s step-end infinite; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect class="bg" width="1200" height="300"/>
+  
+  <!-- Grid pattern background -->
+  <g class="grid">
+    <line class="grid-line" x1="0" y1="50" x2="1200" y2="50"/>
+    <line class="grid-line" x1="0" y1="100" x2="1200" y2="100"/>
+    <line class="grid-line" x1="0" y1="150" x2="1200" y2="150"/>
+    <line class="grid-line" x1="0" y1="200" x2="1200" y2="200"/>
+    <line class="grid-line" x1="0" y1="250" x2="1200" y2="250"/>
+    <line class="grid-line" x1="150" y1="0" x2="150" y2="300"/>
+    <line class="grid-line" x1="300" y1="0" x2="300" y2="300"/>
+    <line class="grid-line" x1="450" y1="0" x2="450" y2="300"/>
+    <line class="grid-line" x1="600" y1="0" x2="600" y2="300"/>
+    <line class="grid-line" x1="750" y1="0" x2="750" y2="300"/>
+    <line class="grid-line" x1="900" y1="0" x2="900" y2="300"/>
+    <line class="grid-line" x1="1050" y1="0" x2="1050" y2="300"/>
+  </g>
+  
+  <!-- Accent lines -->
+  <line class="accent-line" x1="50" y1="120" x2="200" y2="120"/>
+  <line class="accent-line" x1="950" y1="180" x2="1150" y2="180"/>
+  
+  <!-- Main title -->
+  <text x="60" y="110" class="title">ewn0</text>
+  
+  <!-- Subtitle -->
+  <text x="60" y="160" class="subtitle">cybersecurity | automation</text>
+  
+  <!-- Tech tags -->
+  <text x="60" y="220" class="tag">python •</text>
+  <text x="200" y="220" class="tag">powershell •</text>
+  <text x="400" y="220" class="tag">windows security •</text>
+  <text x="750" y="220" class="tag">active directory</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="1100" cy="60" r="3" fill="#00ff88" opacity="0.6"/>
+  <circle cx="1140" cy="100" r="2" fill="#88ccff" opacity="0.6"/>
+  <circle cx="80" cy="280" r="2" fill="#00ff88" opacity="0.6"/>
+  
+  <!-- Corner brackets -->
+  <g stroke="#00ff88" stroke-width="2" fill="none" opacity="0.5">
+    <polyline points="50,50 50,80 80,80"/>
+    <polyline points="1150,50 1150,80 1120,80"/>
+    <polyline points="50,270 50,240 80,240"/>
+    <polyline points="1150,270 1150,240 1120,240"/>
+  </g>
+</svg>
