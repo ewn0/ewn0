@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ewn0/ewn0/main/banner.svg" alt="ewn0 - Cybersecurity" width="100%" />
+![ewn0 Banner](https://raw.githubusercontent.com/ewn0/ewn0/main/banner.svg)
 
 ```
 ███████████████████████████████████████████████████████████████
