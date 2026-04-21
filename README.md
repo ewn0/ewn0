@@ -12,6 +12,29 @@ Focus sur l'automatisation, la détection d'intrusions et la sécurisation des e
 
 ---
 
+## 🎓 Formation
+
+| Diplôme | Établissement | Période |
+|---|---|---|
+| Mastère Cybersécurité (M1–M2) | École IT – Valenciennes | 2026–2028 |
+| BUT Informatique – Réseaux & Cybersécurité | IUT d'Amiens | 2023–2026 |
+| Bac Général – Mathématiques & NSI | Lycée Marie Curie – Nogent-sur-Oise | 2020–2023 |
+
+---
+
+## 💼 Expériences
+
+**Stage Cybersécurité — GIMA, Beauvais** *(jan. – mars 2025)*
+> Supervision SOC, audit de vulnérabilités, administration AD/Entra ID/Intune, gestion Exchange et GPO
+
+**Administrateur Cybersécurité — SAGEB, Beauvais Tillé** *(août 2023 & août 2024)*
+> Hardening Ubuntu (auditd, rsyslog, Fail2ban), scripts Bash d'automatisation, dashboards KPI Power BI
+
+**Stage Réseaux — La Vallée Dorée, Laigneville** *(mars – juin 2026)*
+> Correctifs CVSS, développement d'outils internes, projets réseau, support utilisateurs
+
+---
+
 ## 🔧 Projets
 
 ### **Win-Vuln-Remediator** `actif`
@@ -52,6 +75,18 @@ Scanner Python d'audit Active Directory — détection de misconfigurations et c
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ewn0&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewn0&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
