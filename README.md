@@ -2,70 +2,78 @@
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 À propos
 
-Je suis en apprentissage en cybersécurité avec un focus sur l'automatisation et la sécurisation des environnements Windows. Je développe des outils qui détectent et résolvent les vulnérabilités à l'échelle.
+Étudiant en **Mastère Cybersécurité (M1–M2)** à l'**École IT – Valenciennes**, je recherche une alternance en sécurité offensive/défensive pour septembre 2026.
 
-**Currently** : Building defensive security tools | Learning CTF & pentesting
+Focus sur l'automatisation, la détection d'intrusions et la sécurisation des environnements Windows/Linux.
+
+📍 Zone : **Lille & Valenciennes**
 
 ---
 
-## 🔧 Projets actifs
+## 🔧 Projets
 
-### **CVE Remediation Tool**
-Automatise la génération de scripts PowerShell de correction à partir d'une liste Excel de CVE.
+### **Win-Vuln-Remediator** `actif`
+Automatise la génération de scripts PowerShell de correction à partir d'une liste de CVE.
 - 🎯 Cible : Remédiation rapide en environnement Windows
-- 📋 Input : Excel avec CVE IDs, versions affectées
+- 📋 Input : Liste de CVE IDs et versions affectées
 - 📤 Output : Scripts PS1 prêts à exécuter
 
-### **AD Security Scanner**  
-Scanner Python qui détecte les configurations faibles et misconfigurations dans Active Directory.
-- 🔍 Analyse : Groupes privilégiés, ACLs, délégations
-- 📊 Rapport : JSON structuré avec criticité
+### **Eclipse SIEM**
+Mini SIEM Python — ingestion multi-sources de logs, corrélation d'événements, génération d'alertes.
+- 🔍 Détection : Brute force, escalade de privilèges, scans de ports
+- 📊 Dashboard CLI temps réel (rich)
+- 📤 Export alertes JSON / CSV
+
+### **AD Recon Tool**
+Scanner Python d'audit Active Directory — détection de misconfigurations et configurations faibles.
+- 🔍 Analyse : Groupes privilégiés, ACLs, délégations, GPOs
+- 📊 Rapport JSON structuré avec criticité
 - 🛡️ Focus : Hardening et préparation audit
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack technique
 
-### Languages
+### Langages
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Security Focus
+### Cybersécurité
 ![Windows](https://img.shields.io/badge/Windows%20Security-%230078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Active%20Directory](https://img.shields.io/badge/Active%20Directory-%23004687?style=for-the-badge&logo=microsoft&logoColor=white)
-![LDAP](https://img.shields.io/badge/LDAP-%23FFA500?style=for-the-badge&logo=openldap&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-%23004687?style=for-the-badge&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CVE Management](https://img.shields.io/badge/CVE_Management-%23DD0000?style=for-the-badge&logo=snyk&logoColor=white)
 
-### Tools & Platforms
+### Outils
+![Kali](https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Root-Me](https://img.shields.io/badge/Root--Me-%23000?style=for-the-badge&logo=rootme&logoColor=white)
 
 ---
 
-## 📚 Apprentissage en cours
+## 📚 En cours
 
-- CTF platforms (Root-Me, HackTheBox)
-- Pentesting labs & SIEM
-- Incident response automation
-- Secure development practices
+- CTF & pentesting labs
+- SIEM & réponse à incident
+- Automatisation sécurité défensive
 
 ---
 
-## 🤝 Connect
+## 🤝 Contact
 
-- **Discord** : Fallxngel (fitness & security communities)
-- **GitHub** : [@ewn0](https://github.com/ewn0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ewan%20Le%20Neillon-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ewan-Le-Neillon)
+[![GitHub](https://img.shields.io/badge/GitHub-ewn0-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ewn0)
 
-**Open to** : Code reviews | Security discussions | Collaborations
+**Ouvert à** : Revues de code · Discussions sécurité · Alternance sept. 2026
 
 ---
 
 <div align="center">
 
-**Building tools that fix security, one script at a time.**
+*Construire des outils qui sécurisent, un script à la fois.*
 
 </div>
