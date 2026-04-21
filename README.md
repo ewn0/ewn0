@@ -78,18 +78,6 @@ Scanner Python d'audit Active Directory — détection de misconfigurations et c
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ewn0&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewn0&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 📚 En cours
 
 - CTF & pentesting labs
