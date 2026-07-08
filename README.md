@@ -10,7 +10,7 @@
 
 ## 👨‍💻 À propos
 
-Étudiant en **Mastère Cybersécurité (M1–M2)** à l'**École IT – Valenciennes**, en alternance chez **Atos** (SecOps, Lille) à partir de septembre 2026.
+Étudiant en **Mastère Cybersécurité (M1–M2)** à l'**École IT – Valenciennes**, en alternance chez **Atos** (Consulting Cybersécurité Cloud, équipe SecOps, Lille) à partir de septembre 2026.
 
 Focus sur l'automatisation, la détection d'intrusions et la sécurisation des environnements Windows/Linux.
 
@@ -30,11 +30,11 @@ Focus sur l'automatisation, la détection d'intrusions et la sécurisation des e
 
 ## 💼 Expériences
 
-**Alternance Consultant Cybersécurité — Atos, Lille** *(à partir de sept. 2026)*
-> SecOps, supervision et traitement d'incidents de sécurité
+**Alternance Consultant Cybersécurité Cloud — Atos, Lille** *(à partir de sept. 2026)*
+> Consulting sécurité cloud, au sein de l'équipe SecOps
 
 **Stage puis CDD Réseaux — La Vallée Dorée, Laigneville** *(mars – juin 2026, CDD juin – août 2026)*
-> Correctifs CVE, développement d'outils internes, projets réseau, support utilisateurs
+> Correctifs CVSS, développement d'outils internes, projets réseau, support utilisateurs
 
 **Stage Cybersécurité — GIMA, Beauvais** *(jan. – mars 2025)*
 > Supervision SOC, audit de vulnérabilités, administration AD/Entra ID/Intune, gestion Exchange et GPO
