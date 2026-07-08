@@ -34,7 +34,7 @@ Focus sur l'automatisation, la détection d'intrusions et la sécurisation des e
 > SecOps, supervision et traitement d'incidents de sécurité
 
 **Stage puis CDD Réseaux — La Vallée Dorée, Laigneville** *(mars – juin 2026, CDD juin – août 2026)*
-> Correctifs CVSS, développement d'outils internes, projets réseau, support utilisateurs
+> Correctifs CVE, développement d'outils internes, projets réseau, support utilisateurs
 
 **Stage Cybersécurité — GIMA, Beauvais** *(jan. – mars 2025)*
 > Supervision SOC, audit de vulnérabilités, administration AD/Entra ID/Intune, gestion Exchange et GPO
