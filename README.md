@@ -1,5 +1,11 @@
 ![ewn0 Banner](https://raw.githubusercontent.com/ewn0/ewn0/main/banner.svg)
 
+<div align="center">
+
+### 🌐 [Ewan Le Neillon — Portfolio Cybersécurité](https://ewn0.github.io/portfolio/)
+
+</div>
+
 ---
 
 ## 👨‍💻 À propos
@@ -27,7 +33,7 @@ Focus sur l'automatisation, la détection d'intrusions et la sécurisation des e
 **Alternance Consultant Cybersécurité — Atos, Lille** *(en cours)*
 > SecOps, supervision et traitement d'incidents de sécurité
 
-**Stage Réseaux — La Vallée Dorée, Laigneville** *(mars – juin 2026)*
+**Stage puis CDD Réseaux — La Vallée Dorée, Laigneville** *(mars – juin 2026, CDD juin – août 2026)*
 > Correctifs CVSS, développement d'outils internes, projets réseau, support utilisateurs
 
 **Stage Cybersécurité — GIMA, Beauvais** *(jan. – mars 2025)*
@@ -91,6 +97,7 @@ Scanner Python d'audit Active Directory — détection de misconfigurations et c
 
 ## 🤝 Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ewn0.github.io-%2300C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ewn0.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ewan%20Le%20Neillon-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ewan-Le-Neillon)
 [![GitHub](https://img.shields.io/badge/GitHub-ewn0-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ewn0)
 
