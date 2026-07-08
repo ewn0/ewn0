@@ -4,7 +4,7 @@
 
 ## 👨‍💻 À propos
 
-Étudiant en **Mastère Cybersécurité (M1–M2)** à l'**École IT – Valenciennes**, je recherche une alternance en sécurité offensive/défensive pour septembre 2026.
+Étudiant en **Mastère Cybersécurité (M1–M2)** à l'**École IT – Valenciennes**, actuellement en alternance chez **Atos** (SecOps, Lille).
 
 Focus sur l'automatisation, la détection d'intrusions et la sécurisation des environnements Windows/Linux.
 
@@ -24,14 +24,17 @@ Focus sur l'automatisation, la détection d'intrusions et la sécurisation des e
 
 ## 💼 Expériences
 
+**Alternance Consultant Cybersécurité — Atos, Lille** *(en cours)*
+> SecOps, supervision et traitement d'incidents de sécurité
+
+**Stage Réseaux — La Vallée Dorée, Laigneville** *(mars – juin 2026)*
+> Correctifs CVSS, développement d'outils internes, projets réseau, support utilisateurs
+
 **Stage Cybersécurité — GIMA, Beauvais** *(jan. – mars 2025)*
 > Supervision SOC, audit de vulnérabilités, administration AD/Entra ID/Intune, gestion Exchange et GPO
 
 **Administrateur Cybersécurité — SAGEB, Beauvais Tillé** *(août 2023 & août 2024)*
 > Hardening Ubuntu (auditd, rsyslog, Fail2ban), scripts Bash d'automatisation, dashboards KPI Power BI
-
-**Stage Réseaux — La Vallée Dorée, Laigneville** *(mars – juin 2026)*
-> Correctifs CVSS, développement d'outils internes, projets réseau, support utilisateurs
 
 ---
 
@@ -91,7 +94,7 @@ Scanner Python d'audit Active Directory — détection de misconfigurations et c
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ewan%20Le%20Neillon-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ewan-Le-Neillon)
 [![GitHub](https://img.shields.io/badge/GitHub-ewn0-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ewn0)
 
-**Ouvert à** : Revues de code · Discussions sécurité · Alternance sept. 2026
+**Ouvert à** : Revues de code · Discussions sécurité
 
 ---
 
