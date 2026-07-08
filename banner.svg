@@ -1,45 +1,66 @@
-<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="1200" height="300" fill="#0a0e27"/>
-  
-  <!-- Grid lines -->
-  <line x1="0" y1="50" x2="1200" y2="50" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  <line x1="0" y1="100" x2="1200" y2="100" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  <line x1="0" y1="150" x2="1200" y2="150" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  <line x1="0" y1="200" x2="1200" y2="200" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  <line x1="0" y1="250" x2="1200" y2="250" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  <line x1="150" y1="0" x2="150" y2="300" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  <line x1="300" y1="0" x2="300" y2="300" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  <line x1="450" y1="0" x2="450" y2="300" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  <line x1="600" y1="0" x2="600" y2="300" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  <line x1="750" y1="0" x2="750" y2="300" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  <line x1="900" y1="0" x2="900" y2="300" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  <line x1="1050" y1="0" x2="1050" y2="300" stroke="#1a2847" stroke-width="1" opacity="0.3"/>
-  
-  <!-- Accent lines -->
-  <line x1="50" y1="120" x2="200" y2="120" stroke="#00ff88" stroke-width="2" opacity="0.7"/>
-  <line x1="950" y1="180" x2="1150" y2="180" stroke="#00ff88" stroke-width="2" opacity="0.7"/>
-  
-  <!-- Main title -->
-  <text x="60" y="110" font-family="Courier New, monospace" font-size="56" font-weight="bold" fill="#ffffff" letter-spacing="2">ewn0</text>
-  
-  <!-- Subtitle -->
-  <text x="60" y="160" font-family="Courier New, monospace" font-size="18" fill="#00ff88" letter-spacing="1">cybersecurity | automation</text>
-  
-  <!-- Tech tags -->
-  <text x="60" y="220" font-family="Courier New, monospace" font-size="14" fill="#88ccff">python •</text>
-  <text x="200" y="220" font-family="Courier New, monospace" font-size="14" fill="#88ccff">powershell •</text>
-  <text x="400" y="220" font-family="Courier New, monospace" font-size="14" fill="#88ccff">windows security •</text>
-  <text x="750" y="220" font-family="Courier New, monospace" font-size="14" fill="#88ccff">active directory</text>
-  
-  <!-- Decorative dots -->
-  <circle cx="1100" cy="60" r="3" fill="#00ff88" opacity="0.6"/>
-  <circle cx="1140" cy="100" r="2" fill="#88ccff" opacity="0.6"/>
-  <circle cx="80" cy="280" r="2" fill="#00ff88" opacity="0.6"/>
-  
-  <!-- Corner brackets -->
-  <polyline points="50,50 50,80 80,80" stroke="#00ff88" stroke-width="2" fill="none" opacity="0.5"/>
-  <polyline points="1150,50 1150,80 1120,80" stroke="#00ff88" stroke-width="2" fill="none" opacity="0.5"/>
-  <polyline points="50,270 50,240 80,240" stroke="#00ff88" stroke-width="2" fill="none" opacity="0.5"/>
-  <polyline points="1150,270 1150,240 1120,240" stroke="#00ff88" stroke-width="2" fill="none" opacity="0.5"/>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0C10"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="ringFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6FC9AE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#6FC9AE" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#6FC9AE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+  <g opacity="0.5">
+    <circle cx="950" cy="150" r="210" fill="none" stroke="#1B2129" stroke-width="1"/>
+    <circle cx="950" cy="150" r="150" fill="none" stroke="#1B2129" stroke-width="1"/>
+    <circle cx="950" cy="150" r="90" fill="none" stroke="#232B34" stroke-width="1"/>
+  </g>
+
+  <g>
+    <circle cx="950" cy="150" r="150" fill="none" stroke="url(#ringFade)" stroke-width="1.5"
+      stroke-dasharray="4 10" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#6FC9AE">
+    <circle cx="950" cy="0" r="3"/>
+    <circle cx="1077" cy="75" r="2.4"/>
+    <circle cx="1077" cy="225" r="2.4"/>
+    <circle cx="950" cy="300" r="3"/>
+    <circle cx="823" cy="225" r="2.4"/>
+    <circle cx="823" cy="75" r="2.4"/>
+  </g>
+  <g fill="#4A5A56">
+    <circle cx="1040" cy="45" r="1.6"/>
+    <circle cx="1100" cy="150" r="1.6"/>
+    <circle cx="1040" cy="255" r="1.6"/>
+    <circle cx="860" cy="255" r="1.6"/>
+    <circle cx="800" cy="150" r="1.6"/>
+    <circle cx="860" cy="45" r="1.6"/>
+  </g>
+
+  <line x1="0" y1="150" x2="1200" y2="150" stroke="#161B22" stroke-width="1"/>
+  <line x1="60" y1="0" x2="60" y2="300" stroke="#161B22" stroke-width="1"/>
+
+  <text x="60" y="118" font-family="'Space Grotesk', 'Segoe UI', sans-serif" font-size="58"
+    font-weight="600" fill="#EAEDF0" letter-spacing="-1">ewn0</text>
+
+  <text x="60" y="160" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="15"
+    fill="#6FC9AE" letter-spacing="2.5">CLOUD SECURITY · SECOPS</text>
+
+  <text x="60" y="200" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="13"
+    fill="#6B7480" letter-spacing="0.5">Hardening — Detection — Remediation</text>
+
+  <line x1="60" y1="230" x2="700" y2="230" stroke="#1B2129" stroke-width="1"/>
+
+  <text x="60" y="260" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12.5"
+    fill="#4A5560" letter-spacing="1">GOOGLE CLOUD</text>
+  <text x="220" y="260" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12.5"
+    fill="#4A5560" letter-spacing="1">ACTIVE DIRECTORY</text>
+  <text x="420" y="260" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12.5"
+    fill="#4A5560" letter-spacing="1">LINUX</text>
+  <text x="520" y="260" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12.5"
+    fill="#4A5560" letter-spacing="1">PYTHON</text>
 </svg>
